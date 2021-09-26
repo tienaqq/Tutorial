@@ -1,0 +1,17 @@
+1. Built in function 
+Alert
+Console
+Confirm   Chọn yes   no
+Prompt    Nhập vào input
+Set timeout   Thực thi code sau một khoảng thời gian
+Set interval
+
+2. Toán tử trong JavaScript
+Số học / Arithmetic
+Gán / Assignment
+So sánh / Comparison
+Logic / Logical
+
+Prefix(trả về a) & Postfix(trả về bản copy của a)
+Example:    var num = 6
+            var ouput = num++ + --num = 12
