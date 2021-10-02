@@ -1,17 +1,34 @@
 1. Built in function 
-Alert
-Console
-Confirm   Chọn yes   no
-Prompt    Nhập vào input
-Set timeout   Thực thi code sau một khoảng thời gian
-Set interval
+- alert
+- console
+- confirm
+- prompt
+- setTimeout
+- setInterval
 
-2. Toán tử trong JavaScript
-Số học / Arithmetic
-Gán / Assignment
-So sánh / Comparison
-Logic / Logical
+2. Operator
+- Arithmetic
+- Assignment
+- Comparison
+- Logical
 
-Prefix(trả về a) & Postfix(trả về bản copy của a)
-Example:    var num = 6
-            var ouput = num++ + --num = 12
+3. Prefix(return root) & Postfix(return copy)
+
+4. Variable return false:
+- 0
+- ' '
+- null
+- undefined
+- NaN
+- false
+
+5. JavaScript string method:
+- length
+- find: indexOf() lastIndexOf() search()
+- Cut string slice(start, end) slice(start)
+- replace()
+- convert to upper case toUpperCase()
+- convert to lower case toLowerCase()
+- trim()
+- split() - convert to array with same element
+- charAt() get a character by index
